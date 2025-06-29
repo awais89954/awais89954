@@ -24,7 +24,8 @@ I'm a seasoned IT professional with over 10 years of experience across Telecom/I
 
 ## 🧾 Resume
 
-📄 [Download My Resume (PDF)](https://github.com/awais89954/resume/blob/main/Awais-Network%20&%20Security-Resume.pdf)
+📄 [Download My Resume (PDF)](https://github.com/awais89954/resume/blob/main/Awais-Network%20%26%20Security-Resume.pdf)
+
 
 ---
 
